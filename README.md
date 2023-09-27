@@ -19,6 +19,7 @@ My name is Thy and I'm a data science student at San Jose State University.
 💬 Since you're here let's connect! www.linkedin.com/in/thyatran
 
 🏚️ Check out my portfolio website: (it will be update + rebuilt soon I promise)
+
 [my portfolio <3](https://thyatran.github.io/my-portfolio/)
 
 🐢 Self-reminder: slow but steady 🐢
