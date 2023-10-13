@@ -2,27 +2,24 @@
 
 My name is Thy and I'm a data science student at San Jose State University.
 
-(Currently in process of switching to CS)
-
 🌱 I’m currently learning HTML/CSS and JavaScript.
-
- On my way to find new ways to add extra ✨sprinkles✨ on my web development skills!
 
 🦖 On the look out for internship opportunities.🦖
 
 ✨ My interests:
-* Coding
+* Web development
 * Digital art
 * Design
 * Gaming
 
 💬 Since you're here let's connect! www.linkedin.com/in/thyatran
 
-🏚️ Check out my portfolio website: (it will be update + rebuilt soon I promise)
-
+🏚️ Check out my portfolio website: (working on update)
 [my portfolio <3](https://thyatran.github.io/my-portfolio/)
 
-🐢 Self-reminder: slow but steady 🐢
+📫 How to reach me: thyatran0113@gmail.com
+
+🐢 Self-reminder: taking it slow
 <!--
 **thyatran/thyatran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
