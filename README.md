@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Thy and I'm a data science student at San Jose State University.
+My name is Thy and I'm a second year data science student at San Jose State University.
 
-🌱 I’m currently learning HTML/CSS and JavaScript.
+<!-- 🌱 I’m currently learning HTML/CSS and JavaScript.
 
 🦖 On the look out for internship opportunities.🦖
 
@@ -19,7 +19,7 @@ My name is Thy and I'm a data science student at San Jose State University.
 
 📫 How to reach me: thyatran0113@gmail.com
 
-🐢 Self-reminder: taking it slow
+🐢 Self-reminder: taking it slow -->
 <!--
 **thyatran/thyatran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
