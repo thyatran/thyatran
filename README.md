@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thy and I'm a second year data science student at San Jose State University.
+🌱 My name is Thy and I'm a second year data science student at San Jose State University.
 
 <!-- 🌱 I’m currently learning HTML/CSS and JavaScript.
 
