@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-🌱 My name is Thy and I'm a second year data science student at San Jose State University.
+- 🎀 I'm Thy.
+  
+- 🏫 I'm a second year Data Science student at SJSU.
+
+<!-- - 🔭 I’m currently working on The Odin Project
+
+- 🌱 I’m currently learning HTML,CSS,JavaScript,Java 
+
+- 📫 How to reach me: thyatran0113@gmail.com -->
+
+- 😄 Let's connect! www.linkedin.com/in/thyatran
+
+- 🦖 My interests: Web development, Digital art, Design, Mobile gaming
 
 <!-- 🌱 I’m currently learning HTML/CSS and JavaScript.
 
@@ -17,7 +29,7 @@
 🏚️ Check out my portfolio website: (working on update)
 [my portfolio <3](https://thyatran.github.io/my-portfolio/)
 
-📫 How to reach me: thyatran0113@gmail.com
+📫 thyatran0113@gmail.com
 
 🐢 Self-reminder: taking it slow -->
 <!--
