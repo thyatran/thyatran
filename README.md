@@ -12,7 +12,7 @@
 
 - 😄 Let's connect! www.linkedin.com/in/thyatran
 
-- 🦖 My interests: Web development, Digital art, Design, Mobile gaming
+- 🦖 My interests: Web development, Digital art, Design
 
 <!-- 🌱 I’m currently learning HTML/CSS and JavaScript.
 
