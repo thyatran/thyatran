@@ -2,11 +2,11 @@
 
 - 🎀 I'm Thy.
   
-- 🌷 I'm a second year Data Science student at SJSU.
+- 🌷 I'm a third year Data Science student at SJSU.
 
 <!-- - 🔭 I’m currently working on The Odin Project
 
-- 🌱 I’m currently learning HTML,CSS,JavaScript,Java 
+- 🌱 I’m currently learning ...
 
 - 📫 How to reach me: thyatran0113@gmail.com -->
 
