@@ -5,7 +5,6 @@ Hey! I'm Thy, a third-year Data Science major at San José State University . I'
 ## 🌐 Let's Connect:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyatran/)
-<img src="https://thyt.netlify.app/duck.png" alt="Portfolio" width="20" height="20"/>
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300B4D8?style=for-the-badge&logo=appveyor&logoColor=white)](https://thyt.netlify.app/)
 
 # 💻 Tech Stack:
