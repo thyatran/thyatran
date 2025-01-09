@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-Hey! I'm Thy, a third-year Data Science major at San José State University . I'm passionate about building projects and focusing on the development side of things. I enjoy creating web applications and working on tech solutions that make an impact.<br><br>
+# 💫 Hi I'm Thy
 
 ## 🌐 Let's Connect:
 
