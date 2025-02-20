@@ -3,9 +3,9 @@
 ## 🌐 Let's Connect:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyatran/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300B4D8?style=for-the-badge&logo=appveyor&logoColor=white)](https://thyt.netlify.app/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%2300B4D8?style=for-the-badge&logo=appveyor&logoColor=white)](https://thyt.netlify.app/)
 
-<!--## 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
