@@ -31,10 +31,9 @@ Hi, I'm Thy! I'm a Data Science major at San José State University. I'm interes
 📫 `thyatran0113@gmail.com`
 -->
 
-# 💫 Hi I'm Thy
+# 👋 Hi I'm Thy
 
-I'm a Data Science major with hands-on experience in building machine learning models and full-stack applications.  
-I focus on **clean code, data-driven solutions, and continuous learning.**
+I'm a Data Science major at San José State University. I'm interested in data analytics, machine learning, and using data to solve real-world problems, drive decisions, and tell impactful stories.
 
 - 🎓 B.S. in Data Science at San José State University
 - 💻 Interests: Machine Learning, Data Analytics
