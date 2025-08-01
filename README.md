@@ -46,11 +46,10 @@ I'm a Data Science major at San José State University. I'm interested in data a
 ### 💻 Tech Stack:
 
 - **Languages:** Python, Java, JavaScript, SQL, HTML/CSS
-- **Libraries & Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, React.js, Node.js  
+- **Libraries & Frameworks:** Scikit-learn, Tensor Flow, Keras Pandas, NumPy, Matplotlib, Seaborn, React.js, Node.js  
 - **Databases:** MySQL, MongoDB, Neo4j  
 - **Tools:** Git, Jupyter Notebook, Google Colab, Google Sheets, MS Excel  
 - **ML & Data Techniques:** EDA, Classification, Regression, Feature Engineering
-
 
 ---
 
