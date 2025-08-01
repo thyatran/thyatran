@@ -1,4 +1,4 @@
-## 💫 Hi I'm Thy
+<!-- ## 💫 Hi I'm Thy
 
 Hi, I'm Thy! I'm a Data Science major at San José State University. I'm interested in data analytics, machine learning, and using data to solve real-world problems, drive decisions, and tell impactful stories.
 
@@ -29,3 +29,42 @@ Hi, I'm Thy! I'm a Data Science major at San José State University. I'm interes
 
 ## Reach me at:
 📫 `thyatran0113@gmail.com`
+-->
+
+# 💫 Hi I'm Thy
+
+I'm a Data Science major with hands-on experience in building machine learning models and full-stack applications.  
+I focus on **clean code, data-driven solutions, and continuous learning.**
+
+- 🎓 B.S. in Data Science at San José State University
+- 💻 Interests: Machine Learning, Data Analytics
+- 🌱 Currently learning: Deep Learning, NLP  
+- 🌊 Outside of tech, I love paddleboarding, watch sunset at the beach, and creative design
+- 📫 Reach me: [thyatran0113@gmail.com](mailto:thyatran0113@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thyatran)
+
+---
+
+### ⚙️ Technical Skills
+
+- **Languages:** Python, Java, SQL, JavaScript  
+- **Data Science & ML Tools:** scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook, Google Colab  
+- **Data Visualization & Analysis:** Excel, Looker Studio, Seaborn  
+- **Modeling & Techniques:** Classification, Regression, EDA, Feature Engineering, Cross-Validation  
+- **Databases:** MySQL, MongoDB, Neo4j  
+- **Tools:** React.js, Git, Figma, Canva, Adobe Express
+
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**Predicting Mental Health**](https://github.com/thyatran/predicting-mental-health) | Built a classification model to predict mental health needs of tech employees; presented findings to raise awareness on campus | Python, scikit-learn, Pandas, Jupyter |
+| [**Social Media App**](https://github.com/thyatran/social-media-app) | Developed a full-stack MERN social media platform with authentication, image upload, and CRUD for posts | React.js, Node.js, Express, MongoDB, Tailwind CSS |
+
+---
+
+### 📫 Let's connect
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyatran/)
