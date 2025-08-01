@@ -44,14 +44,12 @@ I focus on **clean code, data-driven solutions, and continuous learning.**
 
 ---
 
-### ⚙️ Technical Skills
-
 - **Languages:** Python, Java, SQL, JavaScript  
-- **Data Science & ML Tools:** scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook, Google Colab  
-- **Data Visualization & Analysis:** Excel, Looker Studio, Seaborn  
-- **Modeling & Techniques:** Classification, Regression, EDA, Feature Engineering, Cross-Validation  
+- **ML & Data Tools:** scikit-learn, Pandas, NumPy, Matplotlib, Jupyter, Colab  
+- **Visualization:** GG Sheets, MS Excel, Seaborn  
+- **Techniques:** EDA, Classification, Regression, Feature Engineering  
 - **Databases:** MySQL, MongoDB, Neo4j  
-- **Tools:** React.js, Git, Figma, Canva, Adobe Express
+- **Tools:** Git, React.js
 
 
 ---
@@ -60,8 +58,11 @@ I focus on **clean code, data-driven solutions, and continuous learning.**
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**Predicting Mental Health**](https://github.com/thyatran/predicting-mental-health) | Built a classification model to predict mental health needs of tech employees; presented findings to raise awareness on campus | Python, scikit-learn, Pandas, Jupyter |
-| [**Social Media App**](https://github.com/thyatran/social-media-app) | Developed a full-stack MERN social media platform with authentication, image upload, and CRUD for posts | React.js, Node.js, Express, MongoDB, Tailwind CSS |
+| [**Predicting Mental Health**](https://github.com/harsita-keerthi/predicting-mental-health) | Built a classification model to predict mental health needs of tech employees using Logistic Regression, Random Forest, and MLPClassifier | Python, scikit-learn, Pandas, Jupyter Notebook |
+| [**Social Media App**](https://github.com/thyatran/social-media) | Developed a full-stack MERN social media platform with authentication, image upload, and CRUD for posts | React.js, Node.js, Express, MongoDB, Tailwind CSS |
+| [**Online Art Auction Platform**](https://github.com/PrabhnoorKhatkar/CS157A-Team10) | Collaborated with a team of 4 to develop a web platform for artists to list and auction artwork, with user bidding features and database integration | Java, SQL, MySQL, Apache Tomcat |
+| [**Console-Based Social Network App**](https://github.com/rashmi-sonth/social-network) | Built a command-line social network app with features like following, mutual connections, and friend recommendations using graph queries | Python, Neo4j |
+
 
 ---
 
