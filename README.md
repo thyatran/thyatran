@@ -57,6 +57,7 @@ I'm a Data Science major at San José State University. I'm interested in data a
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [**Airbnb NYC Price Prediction**](https://github.com/thyatran/Airbnb-NYC-Price-Prediction) | Built a machine learning model to predict Airbnb listing prices in New York City using regression and feature engineering | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook |
 | [**Predicting Mental Health**](https://github.com/harsita-keerthi/predicting-mental-health) | Built a classification model to predict mental health needs of tech employees using Logistic Regression, Random Forest, and MLPClassifier | Python, scikit-learn, Pandas, Jupyter Notebook |
 | [**Social Media App**](https://github.com/thyatran/social-media) | Developed a full-stack MERN social media platform with authentication, image upload, and CRUD for posts | React.js, Node.js, Express, MongoDB, Tailwind CSS |
 | [**Online Art Auction Platform**](https://github.com/PrabhnoorKhatkar/CS157A-Team10) | Collaborated with a team of 4 to develop a web platform for artists to list and auction artwork, with user bidding features and database integration | Java, SQL, MySQL, Apache Tomcat |
