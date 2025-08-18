@@ -33,13 +33,12 @@ Hi, I'm Thy! I'm a Data Science major at San José State University. I'm interes
 
 # 👋 Hi I'm Thy
 
-I'm a Data Science major at San José State University. I'm interested in data analytics, machine learning, and using data to solve real-world problems, drive decisions, and tell impactful stories.
+I'm a Data Science major at San José State University. I'm interested in data science, machine learning, and using data to solve real-world problems, drive decisions, and tell impactful stories.
 
 - 🎓 B.S. in Data Science at San José State University
-- 💻 Interests: Machine Learning, Data Analytics
-- 🌱 Currently learning: Deep Learning, NLP  
-- 🌊 Outside of tech, I love paddleboarding, watch sunset at the beach, and creative design
-- 📫 Reach me: [thyatran0113@gmail.com](mailto:thyatran0113@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thyatran)
+- 💻 Interests: data science, machine learning, design, and social media  
+- 🌊 Outside of tech: paddleboarding, watching sunsets, and creative projects  
+- 📫 Contact: [thyatran0113@gmail.com](mailto:thyatran0113@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thyatran)
 
 ---
 
@@ -48,7 +47,7 @@ I'm a Data Science major at San José State University. I'm interested in data a
 - **Languages:** Python, Java, JavaScript, SQL, HTML/CSS
 - **Libraries & Frameworks:** Scikit-learn, Tensor Flow, Keras Pandas, NumPy, Matplotlib, Seaborn, React.js, Node.js  
 - **Databases:** MySQL, MongoDB, Neo4j  
-- **Tools:** Git, Jupyter Notebook, Google Colab, Google Sheets, MS Excel  
+- **Tools:** Git, Jupyter Notebook, Google Colab, Google Sheets, MS Excel, Canva, Adobe, Figma
 - **ML & Data Techniques:** EDA, Classification, Regression, Feature Engineering
 
 ---
