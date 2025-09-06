@@ -39,7 +39,7 @@ I'm a Data Science major at San José State University. I'm interested in data s
 - 💻 Interests: data science, machine learning, design, and social media  
 - 🌊 Outside of tech: paddleboarding, watching sunsets, and creative projects  
 - 📫 Contact: [thyatran0113@gmail.com](mailto:thyatran0113@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thyatran)
-
+<!--
 ---
 
 ### 💻 Tech Stack:
