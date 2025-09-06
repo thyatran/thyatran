@@ -49,7 +49,7 @@ I'm a Data Science major at San José State University. I'm interested in data s
 - **Databases:** MySQL, MongoDB, Neo4j  
 - **Tools:** Git, Jupyter Notebook, Google Colab, Google Sheets, MS Excel, Canva, Adobe, Figma
 - **ML & Data Techniques:** EDA, Classification, Regression, Feature Engineering
-
+<!--
 ---
 
 ### 📂 Featured Projects
@@ -61,7 +61,7 @@ I'm a Data Science major at San José State University. I'm interested in data s
 | [**Social Media App**](https://github.com/thyatran/social-media) | Developed a full-stack MERN social media platform with authentication, image upload, and CRUD for posts | React.js, Node.js, Express, MongoDB, Tailwind CSS |
 | [**Online Art Auction Platform**](https://github.com/PrabhnoorKhatkar/CS157A-Team10) | Collaborated with a team of 4 to develop a web platform for artists to list and auction artwork, with user bidding features and database integration | Java, SQL, MySQL, Apache Tomcat |
 | [**Console-Based Social Network App**](https://github.com/rashmi-sonth/social-network) | Built a command-line social network app with features like following, mutual connections, and friend recommendations using graph queries | Python, Neo4j |
-
+-->
 ---
 
 ### 📫 Let's connect
